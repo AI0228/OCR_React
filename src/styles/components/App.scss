@@ -1,0 +1,6 @@
+.app {
+  display: grid;
+  grid-template-columns: repeat(16, 1fr);
+  grid-template-rows: 9.21vh 1fr;
+  height: 100vh;
+}
